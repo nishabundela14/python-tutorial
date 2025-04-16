@@ -54,3 +54,17 @@
 1.  Takes user input and writes it to a file named output.txt.
 2.  Then Appends additional data to the same file taken as input.
 3.  Reads and displays the final content of the file.
+
+# Tasks-9
+
+1.  Created a dictionary where student names are keys and their marks are values.
+2.  Used Input to input a student's name.
+3.  in operator to check name exist in dictionary
+4.  If else displays the corresponding marks or student’s name is not found
+
+# Tasks-10
+
+1.  used range for 1 to 10 numbers.
+2.  used slice to extracts the first five elements from the list.
+3.  used reverse() to reverses these extracted elements.
+4.  Prints both
