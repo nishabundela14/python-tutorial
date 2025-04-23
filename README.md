@@ -68,3 +68,7 @@
 2.  used slice to extracts the first five elements from the list.
 3.  used reverse() to reverses these extracted elements.
 4.  Prints both
+
+# Tasks-11
+
+1. compressed file for flask working project
